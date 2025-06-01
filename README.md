@@ -3,7 +3,6 @@
 💡 **Interests**: 
 - Artificial Intelligence and Machine Learning
 - Data Sciences
-- Web Development  
 ## 🚀 About Me
 I'm passionate about leveraging technology to solve real-world problems and am always eager to learn and explore new fields. Currently, my main focus is on advancing my skills in AI/ML and data sciences, while also honing my web development abilities.  
 ## 🛠️ Technologies & Tools:
