@@ -34,7 +34,7 @@
 
 ## 💬 Let's Connect
 
-- [LinkedIn]([https://www.linkedin.com/in/abhinav-mishra-211b7a327/])  
+- [LinkedIn](https://www.linkedin.com/in/abhinav-mishra-211b7a327/)  
 - [Email](mailto:abhinav714b@gmail.com)
 
 > ⚠️ Warning: May contain random ideas, unfinished projects, and unexplainable passion.
