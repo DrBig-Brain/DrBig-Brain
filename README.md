@@ -1,10 +1,40 @@
-# 👋 Hi, I'm Abhinav Mishra!  
-🎓 **Education**: I'm currently studying at the **National Institute of Technology, Hamirpur**.  
-💡 **Interests**: 
-- Artificial Intelligence and Machine Learning
-- Data Sciences
-## 🚀 About Me
-I'm passionate about leveraging technology to solve real-world problems and am always eager to learn and explore new fields. Currently, my main focus is on advancing my skills in AI/ML and data sciences, while also honing my web development abilities.  
-## 🛠️ Technologies & Tools:
-- **Languages**: Python, C++, C
-- **Libraries**: numpy, pandas, matplotlib, seaborn, scikit-learn, TensorFlow
+# 👋 Hey, I'm Abhinav Mishra
+
+🎓 Electronics & Communication student  
+🤖 Builder of AI stuff and microcontroller chaos  
+🧠 Currently convincing machines to understand handwriting and humans to understand code
+
+---
+
+## 🛠️ What I'm up to:
+
+- 🔢 Training CNNs that can roast your handwriting (MNIST ftw)
+- 🤖 Building bots with ESP8266, servos, and borderline magic
+- 🧹 Cleaning data like it owes me money
+- 🎮 Making Streamlit apps that are *almost* useful
+- 💥 Mixing ML with embedded systems just because I can
+
+---
+
+## ⚡ Tech Stack
+
+**ML & AI**:  
+`Python` | `TensorFlow/Keras` | `scikit-learn` | `OpenCV` | `Pandas` | `NumPy`
+
+**Web & Apps**:  
+`Streamlit` | `Flask` | `HTML/CSS` | `JavaScript` (on a good day)
+
+**Hardware**:  
+`ESP8266 / ESP32` | `Arduino` | `Sensors` | `Servos` | `MPU6050`
+
+**Other**:  
+`Git` | `VS Code` | `Linux (when brave)` | `Blynk` | `Fritzing`
+
+---
+
+## 💬 Let's Connect
+
+- [LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/abhinav-mishra-211b7a327/))  
+- [Email](mailto:abhinav714b@gmail.com)
+
+> ⚠️ Warning: May contain random ideas, unfinished projects, and unexplainable passion.
