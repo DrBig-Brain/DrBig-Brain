@@ -56,7 +56,7 @@ I specialize in **Computer Vision**, **NLP**, and **MLOps**. If my code works, I
 
 ### 🐈 Stalk Me (Professionally)
 <p align="left">
-<a href="https://linkedin.com/in/[YOUR_LINKEDIN_ID]" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Abhinav Mishra" /></a>
+<a href="https://linkedin.com/in/abhinavmishra05" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Abhinav Mishra" /></a>
 <a href="mailto:abhinav714b@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
