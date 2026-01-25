@@ -1,24 +1,28 @@
-# Hi there, I'm Abhinav Mishra 👋
-### Machine Learning Engineer | ECE Undergrad | Professional Model Trainer (Not *that* kind of model)
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet)
-
----
-
-### 🧐 About Me
-I’m an Electronics & Communication Engineering student at **NIT Hamirpur** who decided that hardware was cool, but teaching computers to think was cooler. I build end-to-end ML pipelines because manual labor is so 2020. 
-
-I specialize in **Computer Vision**, **NLP**, and making **MLOps** look easy (it’s not). If my code works, I wrote it. If it doesn't, it's a "feature" of the stochastic nature of deep learning. 🤷‍♂️
-
-- 🔭 **Currently working on:** Making AI robust enough to survive the real world.
-- 👯 **Looking to collaborate on:** Anything involving PyTorch, generative AI, or complex system architectures.
-- 💬 **Ask me about:** Why your loss function isn't converging or how to deploy models without crying.
-- ⚡ **Fun fact:** I can explain backpropagation better than I can explain why I'm awake at 3 AM.
+<div align="center">
+  <img src="https://media.giphy.com/media/13Hgw4XvnZc652/giphy.gif" width="600" height="auto"/>
+  
+  # Hi there, I'm Abhinav Mishra 😸
+  ### Machine Learning Engineer | ECE Undergrad | Part-time Cat Herder (of Data)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet)
+</div>
 
 ---
 
-### 🛠 The Arsenal (Tech Stack)
-*My weapons of choice for battling bugs and bias.*
+### 😼 About Me
+I’m an Electronics & Communication Engineering student at **NIT Hamirpur** who realized that hardware is great, but training models to do my homework is better. I build end-to-end ML pipelines because I like my coffee strong and my loss functions low.
+
+I specialize in **Computer Vision**, **NLP**, and **MLOps**. If my code works, I’m a genius. If it doesn't, it’s just a "catastrophic forgetting" event. 🤷‍♂️
+
+- 🔭 **Currently working on:** Teaching AI to judge people silently (just like a cat).
+- 👯 **Looking to collaborate on:** PyTorch projects that don't require 800 GPUs.
+- 💬 **Ask me about:** Why your neural net is overfitting or how to exit Vim.
+- ⚡ **Fun fact:** I debug my code by staring at it until it confesses.
+
+---
+
+### 🧶 The Yarn Ball (Tech Stack)
+*Tools I play with to avoid doing actual work.*
 
 | Domain | Tools & Tech |
 | :--- | :--- |
@@ -30,30 +34,30 @@ I specialize in **Computer Vision**, **NLP**, and making **MLOps** look easy (it
 
 ---
 
-### 💼 Where I've Made Waves
+### 🐾 Where I've Left My Paw Prints
 **Executive Member @ SPEC (Society for Promotion of Electronics Culture)**
 *2025 – Present*
-- Leading events for 200+ people because I like crowds (and microphones).
-- Mentoring juniors on ML concepts so they don't repeat my mistakes.
+- Herding 200+ participants for technical events.
+- Mentoring kittens (juniors) so they land on their feet.
 
 **Volunteer @ Team Vibhav**
 *2025*
-- Taught 100+ students that hardware isn't scary, it just smells like burning silicon sometimes.
-- Accelerated peer project development (read: fixed their bugs).
+- Taught 100+ students that bugs are just features waiting to be discovered.
+- Accelerated peer projects (basically provided 9 lives to dying codebases).
 
 ---
 
-### 🎓 The Credential Chase
+### 🎓 The Credential Scratching Post
 **National Institute of Technology, Hamirpur**
 *B.Tech in Electronics and Communication Engineering (2024 – 2028)*
-- Learning the physics behind the magic.
+- Studying the art of turning electricity into logic.
 
 ---
 
-### 🤝 Stalk Me (Professionally)
+### 🐈 Stalk Me (Professionally)
 <p align="left">
-<a href="https://linkedin.com/in/abhinavmishra05/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Abhinav Mishra" /></a>
+<a href="https://linkedin.com/in/[YOUR_LINKEDIN_ID]" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Abhinav Mishra" /></a>
 <a href="mailto:abhinav714b@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-*"Data is like people—interrogate it hard enough and it will tell you whatever you want to hear."* – Ronald Coase (but mostly me debugging at 2 AM).
+*"I don't always test my code, but when I do, I do it in production."* – The World's Most Interesting Developer (probably).
