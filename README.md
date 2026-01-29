@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/13Hgw4XvnZc652/giphy.gif" width="600" height="auto"/>
+  <iframe src="https://giphy.com/embed/mcsPU3SkKrYDdW3aAU" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-computer-mcsPU3SkKrYDdW3aAU">via GIPHY</a></p>
   
   # Hi there, I'm Abhinav Mishra 😸
   ### Machine Learning Engineer | ECE Undergrad | Part-time Cat Herder (of Data)
