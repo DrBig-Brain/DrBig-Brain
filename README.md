@@ -34,7 +34,7 @@
 
 ```bash
 name        : Abhinav Mishra
-role        : ML Engineer
+role        : ML Engineer, Software Developer, Full Stack Developer
 education   : B.Tech ECE @ NIT Hamirpur
 location    : Himachal Pradesh, India
 focus       : Machine Learning / MLOps / Computer Vision / NLP
