@@ -82,7 +82,7 @@ status   : Building things that work in production
 ### `$ github_stats --all`
 
 <div align="center">
-  <img width="65%" src="https://streak-stats.demolab.com/?user=DrBig-Brain&theme=radical&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560&hide_border=true"/>
+  <img width="65%" src="[https://streak-stats.demolab.com/?user=DrBig-Brain](https://camo.githubusercontent.com/5e13d4d5dd208204f2b93948ade55040722565c623d9dd2267b40c030a2cb67d/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d44724269672d427261696e267468656d653d7261646963616c266261636b67726f756e643d3064313131372672696e673d65393435363026666972653d653934353630266375727253747265616b4c6162656c3d65393435363026686964655f626f726465723d74727565)&theme=radical&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560&hide_border=true"/>
 </div>
 
 ---
